@@ -1,2 +1,1 @@
-this is file1 content
-new line in content
+new line 2 added
